@@ -9,6 +9,6 @@
   
     `https://classevirtuelle.ulaval.ca/<urlPath>/?proto=true`
 
-4. Open that url in your browser
+4. Open that URL in your browser
 
-5. Click the "Open in browser" button, that'll open the HTML viewer
+5. Click the "Open in browser" button, that will open the HTML viewer
